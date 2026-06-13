@@ -1,0 +1,44 @@
+node_modules/
+.next/
+.env.local
+.env
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+coverage/
+playwright-report/
+test-results/
+tests/e2e/.auth/
+pm2-logs/
+dev.db
+
+# Local scratch, generated artifacts, and sensitive keys
+.playwright-mcp/
+graphify/
+planning/
+dev testing bugs/
+private.pem
+public.pem
+public.xml
+append_bug.py
+append_bug_correct.py
+build_error.txt
+check.js
+comments-reviews.txt
+generate_prompts.py
+master-agent.md
+master-plan-v3.txt
+planning style.txt
+planning-agent.md
+review_planning.py
+tmp_replace.py
+tsc_errors.txt
+update_testing_prompts.py
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
