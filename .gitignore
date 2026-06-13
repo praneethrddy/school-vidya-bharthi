@@ -34,3 +34,11 @@ review_planning.py
 tmp_replace.py
 tsc_errors.txt
 update_testing_prompts.py
+
+# OpenNext
+.open-next
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
