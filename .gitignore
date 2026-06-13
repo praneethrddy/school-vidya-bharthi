@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.env.local
+.env
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+coverage/
+playwright-report/
+test-results/
+tests/e2e/.auth/
+pm2-logs/
+dev.db
